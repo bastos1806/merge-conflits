@@ -1,1 +1,1 @@
-Cocucou # merge-conflits
+REMOTE Cocucou # merge-conflits
