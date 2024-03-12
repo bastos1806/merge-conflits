@@ -1,1 +1,1 @@
-Cocucou # merge-conflits
+Cocucou LOCAL# merge-conflits
